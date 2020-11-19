@@ -1,4 +1,4 @@
-# pxt-stem
+# pxt-tp2
 MakeCode extension for TFabWorks's boards for the micro:bit.
 https://tfabworks.com
 
